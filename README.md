@@ -1,4 +1,3 @@
-# Iris-Classification
 # Iris Classification using Machine Learning
 
 This repository contains a machine learning project for classifying Iris flowers into different species using Python, scikit-learn, and TensorFlow.
